@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
       </head>
       <body>
         <h1>🚀 GitOps Kubernetes Platform</h1>
-        <p>Application deployed successfully!</p>
+        <p>Application deployed automatically by GitOps! 🚀</p>
         <p>Running with Node.js + Docker + Kubernetes</p>
       </body>
     </html>
