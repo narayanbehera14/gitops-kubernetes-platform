@@ -1,0 +1,12 @@
+{
+  "name": "gitops-demo-app",
+  "version": "1.0.0",
+  "description": "Zero-cost GitOps Kubernetes demo application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
